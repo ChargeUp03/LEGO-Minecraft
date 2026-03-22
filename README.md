@@ -1,13 +1,24 @@
-# LEGO-Minecraft
+<img src="mainicon.png" width="50" height="auto">
+
+# LEGO Minecraft
 LEGO Minecraft updates EVERY texture in Java Edition to look like LEGO!
 
-_This resource pack is currently in Beta; expect changes in future versions._
-
 [Releases](https://github.com/ChargeUp03/LEGO-Minecraft/releases/tag/Beta) | Modrinth
+
+> [!WARNING]
+> This resource pack is currently in beta. Anything you see is subject to change.
+
+<img src="grass0.1beta.png" width="500" height="auto">
+
+_An image of grassy hills with the LEGO Minecraft resource pack._
 
 ## Overview
 
 LEGO Minecraft aims to make every single texture in the game like their LEGO counterparts. That means every block, tool, item, mob, and even debug blocks. They will try to match their LEGO versions as closely as possible. Some blocks and items were not created in LEGO form yet, so creative liberties will be taken to create these, basing them off similar exisitng items.
+
+<img src="items0.1beta.png" width="500" height="auto">
+
+_From left to right: grass block, dirt block, diamond pickaxe._
 
 ## Installation
 
